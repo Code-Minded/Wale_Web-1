@@ -1,0 +1,23 @@
+body{
+  /* background:url(../img/jaguar.jpg) no-repeat fixed bottom; */
+  /* background-image:url(../img/spidy.jpg);
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position:bottom ; */
+  background-color: #000012;
+  color: #f4f4f4;
+}
+.one{
+     border-style:ridge;
+     border-color: fuchsia;
+     border-width:3px;
+}
+.two{
+     width: 300px;
+     height: 300px;
+     border:2px chartreuse solid;
+     /* border-color: chartreuse;
+     border-style: solid;
+     border-width: 2px;
+     /* border-radius: 5px; */
+     border-radius: 100%; */
